@@ -1,0 +1,11 @@
+Useful terms:
+
+Immutability and its advantages in concurrency.
+Lazy Initialization: lazy val service = "initialize it", no type mentioned here.
+Type Inference: it understands that service is of type "string" from above example.
+Scala has no built-in types, they're all classes, Int, etc.
+Unit type: similar to Java's or .NET's void keyword.
+
+var server : String = _
+server = "initialising at a later stage", this way is not encouraged due to the use of var.
+
