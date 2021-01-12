@@ -14,4 +14,8 @@ object list extends App {
 
   val thrill = List("will", "till", "until")
   print(thrill.count(s => s.length == 4))
+
+
 }
+
+

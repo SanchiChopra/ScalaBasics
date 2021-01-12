@@ -5,5 +5,5 @@ object basics extends App {
   greet(2) ="Sanchi \n"
   for(i <- 0 to 2)
     print(greet(i))
-
+"kiwi"
 }
